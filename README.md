@@ -1,4 +1,4 @@
-# FE590-Statistical-Learning-Finance
+# Predicting Stock-Level Risk Premiums Using Statistical Learning Models
 
 ## Prediction Task
 
