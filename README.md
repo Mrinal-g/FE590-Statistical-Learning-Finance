@@ -1,4 +1,4 @@
-# Predicting Stock-Level Risk Premiums Using Statistical Learning Models
+# Predicting Stock-Level Risk Premiums using Statistical Learning Models
 
 ## Prediction Task
 
